@@ -8,4 +8,7 @@
 | U1     | 1     | Arduino Uno R3    |
 
 
-<img src="Bilder-aus-Arduino-Projekte/Projekt-01-Schaltkreis.png" width="500">
+
+# Meine Tinkercad-Schaltungen
+
+![LED-Schaltung](Bilder-aus-Arduino-Projekte/Projekt-01-Schaltkreis.png)
